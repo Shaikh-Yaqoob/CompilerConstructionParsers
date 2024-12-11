@@ -1,7 +1,7 @@
 # CompilerConstructionParsers
 Welcome to the CompilerConstructionParsers repository! This repository is a collection of projects that I developed as part of my Compiler Construction subject. It focuses on implementing parsers using various parsing techniques and algorithms essential for building compilers.
 
-Key Features
+##Key Features
 
 Lexical Analysis: Implementation of tokenization techniques to break down source code into meaningful components.
 
@@ -17,7 +17,7 @@ SLR(1) Parser
 
 Error Detection and Recovery: Mechanisms for identifying and handling syntax errors.
 
-What's Included?
+##What's Included?
 
 Code for implementing LL(1), LR(0), and SLR(1) parsers.
 
@@ -25,7 +25,7 @@ Examples demonstrating how to use each parser effectively.
 
 Error handling and recovery mechanisms in parsing.
 
-Projects Included
+##Projects Included
 
 LL(1) Parser:
 
@@ -49,7 +49,7 @@ Error Handling Demonstrations:
 
 Projects showing syntax error detection and recovery strategies.
 
-How to Use
+##How to Use
 
 Clone the repository:
 
@@ -59,7 +59,7 @@ Navigate to the desired parser directory.
 
 Follow the instructions in the respective README file or documentation to run the project.
 
-Contributions
+##Contributions
 
 Contributions are welcome! If you have improvements or additional parsing techniques to share, feel free to open an issue or submit a pull request.
 
