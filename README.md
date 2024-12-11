@@ -36,5 +36,5 @@ Welcome to the **CompilerConstructionParsers** repository! This collection inclu
    ```bash
    git clone https://github.com/Shaikh-Yaqoob/CompilerConstructionParsers.git
 
-Contributions
-Contributions are welcome! If you have improvements or additional parsing techniques to share, feel free to open an issue or submit a pull request.
+## **Contributions**
+-Contributions are welcome! If you have improvements or additional parsing techniques to share, feel free to open an issue or submit a pull request.
