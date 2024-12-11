@@ -10,13 +10,11 @@ Welcome to the **CompilerConstructionParsers** repository! This collection inclu
   - **LL(1) Parser**
   - **LR(0) Parser**
   - **SLR(1) Parser**
-- **Error Detection and Recovery**: Mechanisms for identifying and handling syntax errors.
 
 ## **What's Included?**
 
 - Code for implementing **LL(1)**, **LR(0)**, and **SLR(1)** parsers.
 - Examples demonstrating how to use each parser effectively.
-- Error handling and recovery mechanisms in parsing.
 
 ## **Projects Included**
 
@@ -32,11 +30,11 @@ Welcome to the **CompilerConstructionParsers** repository! This collection inclu
 - Implements a more refined version of LR parsing with lookahead sets.
 - Ensures grammar consistency.
 
-### **Error Handling Demonstrations**:
-- Projects showcasing syntax error detection and recovery strategies.
-
 ## **How to Use**
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Shaikh-Yaqoob/CompilerConstructionParsers.git
+
+Contributions
+Contributions are welcome! If you have improvements or additional parsing techniques to share, feel free to open an issue or submit a pull request.
